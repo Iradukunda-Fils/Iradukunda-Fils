@@ -99,34 +99,6 @@ I'm a passionate **Backend Engineer** and **Python Trainer** from Kigali, Rwanda
 
 ---
 
-## 🏆 Featured Projects
-
-### 🔥 [Lnext](https://github.com/Iradukunda-Fils) - Microservice System
-**Tech Stack:** Django | PostgreSQL | Redis | Celery | Docker | Nginx
-
-- Modular microservice architecture with centralized authentication
-- JWT-based inter-service communication
-- Fully Dockerized with orchestrated containers
-- Production-ready deployment configuration
-
-### 📦 [Inventory Management System](https://github.com/Iradukunda-Fils)
-**Tech Stack:** Django | Celery | Redis | PostgreSQL | WhatsApp API
-
-- Processes **10k+ background jobs per day** in production
-- Automated WhatsApp messaging integration for notifications
-- Redis-based caching for optimal performance
-- Cloud deployment with Docker + Nginx
-
-### 💬 [IGA Programming Platform](https://github.com/Iradukunda-Fils) - Discord-like App
-**Tech Stack:** Django REST Framework | PostgreSQL | JavaScript | HTML/CSS
-
-- Real-time communication platform with rooms and messaging
-- RESTful public APIs for extensibility
-- Modern responsive UI/UX design
-- User authentication and authorization system
-
----
-
 ## 🎯 Leadership & Community
 
 - 📊 **Board Member** — Django Community Rwanda
