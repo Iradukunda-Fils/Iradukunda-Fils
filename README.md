@@ -125,7 +125,7 @@ I'm a passionate **Backend Engineer** and **Python Trainer** from Kigali, Rwanda
  Kigali, Rwanda | 2020–2024
 
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Iradukunda-Fils&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
