@@ -126,12 +126,12 @@ I'm a passionate **Backend Engineer** and **Python Trainer** from Kigali, Rwanda
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Iradukunda-Fils&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iradukunda-Fils&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
-</p>
+</p> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iradukunda-Fils&theme=radical&hide_border=true" alt="GitHub Streak" />
