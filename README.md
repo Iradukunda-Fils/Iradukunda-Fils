@@ -124,7 +124,6 @@ I'm a passionate **Backend Engineer** and **Python Trainer** from Kigali, Rwanda
 **High School Certificate, Software Development** | Apaer Institute  
 📍 Kigali, Rwanda | 2020–2024
 
----
 
 ### 📊 GitHub Stats
 
