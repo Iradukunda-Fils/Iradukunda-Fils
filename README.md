@@ -16,20 +16,20 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate **Backend Engineer** and **Python Trainer** from Kigali, Rwanda, specializing in building scalable, distributed systems. Currently pursuing my BSc in Software Engineering at **Adventist University of Central Africa (AUCA)** while working as a Backend Engineer Intern at **Twara Company**.
 
-- 🔭 **Currently working on:** Scalable microservices with Django, Celery, and Docker
-- 🌱 **Learning:** Advanced distributed systems, cloud architecture, and AI integration
-- 👨‍🏫 **Teaching:** Backend engineering through Django Community Rwanda & Digital Rwanda YouTube
-- 🤝 **Community:** Board Member at Django Community Rwanda | Co-Founder of Rwanda AI Network
-- 💬 **Ask me about:** Python, Django, REST APIs, Microservices, Docker, Async Programming
-- ⚡ **Fun fact:** I've mentored 50+ students and handled 10k+ background jobs daily in production!
+-  **Currently working on:** Scalable microservices with Django, Celery, and Docker
+-  **Learning:** Advanced distributed systems, cloud architecture, and AI integration
+-  **Teaching:** Backend engineering through Django Community Rwanda & Digital Rwanda YouTube
+-  **Community:** Board Member at Django Community Rwanda | Co-Founder of Rwanda AI Network
+-  **Ask me about:** Python, Django, REST APIs, Microservices, Docker, Async Programming
+-  **Fun fact:** I've mentored 50+ students and handled 10k+ background jobs daily in production!
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -79,53 +79,53 @@ I'm a passionate **Backend Engineer** and **Python Trainer** from Kigali, Rwanda
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
-### 🔹 Backend Engineer Intern | **Twara Company** (2025–Present)
+### Backend Engineer Intern | **Twara Company** (2025–Present)
 *Remote*
 
-- 🚀 Built and deployed scalable backend systems with **Celery + Redis** for distributed task processing
-- ⚡ Refactored legacy systems, achieving **~40% improvement in API response times**
-- 🔐 Integrated external services (payments, messaging, analytics) using **OAuth + TLS**
-- 🐳 Deployed containerized applications using **Docker + Nginx** on cloud infrastructure
-- 📬 Implemented real-time notification pipelines and asynchronous scheduling with **Celery Beat**
+-  Built and deployed scalable backend systems with **Celery + Redis** for distributed task processing
+-  Refactored legacy systems, achieving **~40% improvement in API response times**
+-  Integrated external services (payments, messaging, analytics) using **OAuth + TLS**
+-  Deployed containerized applications using **Docker + Nginx** on cloud infrastructure
+-  Implemented real-time notification pipelines and asynchronous scheduling with **Celery Beat**
 
-### 🔹 Python Backend Trainer | **African Leadership University (ALU) Bootcamp** (2025)
+### Python Backend Trainer | **African Leadership University (ALU) Bootcamp** (2025)
 *Remote*
 
-- 👨‍🏫 Taught advanced Python concepts: **OOP, decorators, async/await, context managers**, and modular design
-- 🎓 Mentored **50+ students** in Django, API architecture, and backend scalability patterns
-- 🔍 Led code reviews, refactoring sessions, and testing best practices with **pytest/unittest**
+-  Taught advanced Python concepts: **OOP, decorators, async/await, context managers**, and modular design
+-  Mentored **50+ students** in Django, API architecture, and backend scalability patterns
+-  Led code reviews, refactoring sessions, and testing best practices with **pytest/unittest**
 
 ---
 
-## 🎯 Leadership & Community
+## Leadership & Community
 
-- 📊 **Board Member** — Django Community Rwanda
-- 🎥 **Founder** — [Digital Rwanda YouTube Channel](https://youtube.com) (Backend Engineering Education)
-- 👨‍💼 **Instructor** — Specializing in Django, REST APIs, Celery, Docker
-- 🤖 **Co-Founder** — Rwanda AI Network (AI for Education & Innovation in Africa)
-
----
-
-## 📜 Certifications
-
-- ✅ **AI Career Essentials** — ALX Africa
-- ✅ **IT Specialist - Python** — Certiport
-- ✅ **Backend Engineering** — Twara.rw
+-  **Board Member** — Django Community Rwanda
+-  **Founder** — [Digital Rwanda YouTube Channel](https://youtube.com) (Backend Engineering Education)
+-  **Instructor** — Specializing in Django, REST APIs, Celery, Docker
+-  **Co-Founder** — Rwanda AI Network (AI for Education & Innovation in Africa)
 
 ---
 
-## 🎓 Education
+## Certifications
+
+-  **AI Career Essentials** — ALX Africa
+-  **IT Specialist - Python** — Certiport
+-  **Backend Engineering** — Twara.rw
+
+---
+
+## Education
 
 **BSc in Software Engineering** | Adventist University of Central Africa (AUCA)  
-📍 Kigali, Rwanda | 2024–Present
+ Kigali, Rwanda | 2024–Present
 
 **High School Certificate, Software Development** | Apaer Institute  
-📍 Kigali, Rwanda | 2020–2024
+ Kigali, Rwanda | 2020–2024
 
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Iradukunda-Fils&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
