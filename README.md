@@ -1,6 +1,8 @@
 <div align="center">
   <h1>👋 Hi, I'm Iradukunda Fils</h1>
-  <h3>Backend Engineer | Python Specialist | Microservices Architect</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Python+Specialist;Microservices+Architect;Django+Expert;Open+Source+Contributor" alt="Typing SVG" />
+</div>
   
   <p>
     <a href="https://github.com/Iradukunda-Fils"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
