@@ -144,7 +144,7 @@ I'm a passionate **Backend Engineer** and **Python Trainer** from Kigali, Rwanda
 
 I'm always open to interesting conversations and collaboration opportunities!
 
-- 💼 **LinkedIn:** [linkedin.com/in/iradukunda-fils](https://www.linkedin.com/in/iradukunda-fils)
+- 💼 **LinkedIn:** [linkedin.com/in/iradukunda-fils](https://www.linkedin.com/in/iradukunda-fils1)
 - 🐙 **GitHub:** [github.com/Iradukunda-Fils](https://github.com/Iradukunda-Fils)
 - 📧 **Email:** iradukundafils1@gmail.com
 - 📱 **Phone:** (+250) 783 071 229
