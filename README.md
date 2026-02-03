@@ -10,7 +10,6 @@
   </p>
 </div>
 
----
 
 ## About
 
@@ -18,7 +17,6 @@ Backend engineer focused on **scalable, reliable, and observable systems**.
 
 I grow by learning from others’ experience, reading deeply, and collaborating on real systems. I’m especially interested in how distributed systems behave in production and how good design reduces operational complexity.
 
----
 
 ## How I Think About Systems
 
@@ -28,7 +26,6 @@ I grow by learning from others’ experience, reading deeply, and collaborating 
 - Use proven technology unless complexity is justified  
 - Reliability and clarity beat cleverness  
 
----
 
 ## Core Stack
 
@@ -41,7 +38,6 @@ I grow by learning from others’ experience, reading deeply, and collaborating 
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
 </p>
 
----
 
 ### Backend and APIs
 <p>
@@ -50,7 +46,6 @@ I grow by learning from others’ experience, reading deeply, and collaborating 
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
 </p>
 
----
 
 ### Async Processing and Messaging
 <p>
@@ -61,7 +56,6 @@ I grow by learning from others’ experience, reading deeply, and collaborating 
   <img src="https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka"/>
 </p>
 
----
 
 ### DevOps and Cloud-Native
 <p>
@@ -72,7 +66,6 @@ I grow by learning from others’ experience, reading deeply, and collaborating 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
----
 
 ### Databases
 <p>
@@ -81,7 +74,6 @@ I grow by learning from others’ experience, reading deeply, and collaborating 
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite"/>
 </p>
 
----
 
 ### AI and ML (Applied)
 <p>
@@ -92,7 +84,6 @@ I grow by learning from others’ experience, reading deeply, and collaborating 
 
 Focused on integrating ML and LLM capabilities into backend systems rather than model research.
 
----
 
 ## Where I Apply These Tools
 
@@ -101,7 +92,6 @@ Focused on integrating ML and LLM capabilities into backend systems rather than 
 - Celery and ARQ for background and scheduled processing  
 - Kubernetes for container orchestration and service isolation  
 
----
 
 ## How I Learn
 
@@ -111,13 +101,11 @@ Focused on integrating ML and LLM capabilities into backend systems rather than 
 
 Currently reading: **Designing Data-Intensive Applications**
 
----
 
 ## Current Focus
 
 Building reliable, observable, cloud-native backend systems on Kubernetes.
 
----
 
 ## Open To
 
@@ -131,7 +119,6 @@ Building reliable, observable, cloud-native backend systems on Kubernetes.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iradukunda-Fils&theme=radical&hide_border=true" />
 </div>
 
----
 
 <div align="center">
   <i>Learning continuously. Building thoughtfully. Growing through collaboration.</i>
