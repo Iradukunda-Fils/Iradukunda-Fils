@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Iradukunda Fils</h1>
+  <h1>👋 Hi, I'm Iradukunda Fils</h1>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Backend+Engineer;Distributed+Systems+and+DevOps;Cloud-Native+Architecture;Lifelong+Learner" />
 
@@ -13,9 +13,9 @@
 
 ## About
 
-Backend engineer focused on **scalable, reliable, and observable systems**.
+Backend engineer focused on building scalable, reliable, and observable systems.
 
-I grow by learning from others’ experience, reading deeply, and collaborating on real systems. I’m especially interested in how distributed systems behave in production and how good design reduces operational complexity.
+I value deep understanding over surface-level familiarity. I grow by learning from others’ experience, reading engineering literature, and collaborating on real systems. My interests lie in how distributed systems behave in production and how thoughtful design reduces long-term complexity.
 
 
 ## How I Think About Systems
