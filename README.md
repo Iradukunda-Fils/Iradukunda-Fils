@@ -1,132 +1,27 @@
-<div align="center">
-  <h1>👋 Hi, I'm Iradukunda Fils</h1>
+# Iradukunda Fils
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Backend+Engineer;Distributed+Systems+and+DevOps;Cloud-Native+Architecture;Lifelong+Learner" />
+**Software & Systems Engineer** | Backend Platforms, Distributed Systems, Cloud Infrastructure
 
-<p>
-  <a href="https://github.com/Iradukunda-Fils" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/iradukunda-fils" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:iradukundafils1@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+Kigali, Rwanda · [GitHub](https://github.com/Iradukunda-Fils) · [LinkedIn](https://www.linkedin.com/in/iradukunda-fils) · [Email](mailto:iradukundafils1@gmail.com)
 
-</div>
+I build backend and systems software with a focus on clear interfaces, reliability, observability, and secure execution. My work spans Python services, TypeScript APIs, Rust systems components, and cloud infrastructure.
 
+## Technical Focus
 
-## About
+- **Languages:** Python, TypeScript, Rust, Java, C/C++
+- **Backend:** Django, Django REST Framework, Flask, FastAPI, tRPC, REST, gRPC
+- **Data:** PostgreSQL, MongoDB, Redis, Qdrant, Celery
+- **Infrastructure:** Linux, Docker, Kubernetes, AWS, Terraform, Ansible, CI/CD
+- **Systems security:** Linux namespaces, cgroups v2, Landlock, execution isolation
 
-Backend engineer focused on building scalable, reliable, and observable systems.
+## Selected Work
 
-I value deep understanding over surface-level familiarity. I grow by learning from others’ experience, reading engineering literature, and collaborating on real systems. My interests lie in how distributed systems behave in production and how thoughtful design reduces long-term complexity.
+- [Cortex](https://github.com/Iradukunda-Fils/Cortex): capability-secured execution runtime for controlled agent workloads.
+- [Django Rwanda Developer Track](https://github.com/django-rwanda/django-core-track): practical backend curriculum and engineering labs.
+- [prisma-modelcore](https://www.npmjs.com/package/prisma-modelcore): runtime validation extension for Prisma.
+- [DropIn](https://dropin.rw): product and platform engineering.
+- [Chalk](https://hichalk.com): conversational AI learning platform.
 
+## Engineering Principles
 
-## How I Think About Systems
-
-- Start simple, scale when evidence demands it  
-- Prefer async and event-driven designs for resilience  
-- Optimize for observability before performance  
-- Use proven technology unless complexity is justified  
-- Reliability and clarity beat cleverness  
-
-
-## Core Stack
-
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-</p>
-
-
-### Backend and APIs
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
-</p>
-
-
-### Async Processing and Messaging
-<p>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery"/>
-  <img src="https://img.shields.io/badge/ARQ-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka"/>
-</p>
-
-
-### DevOps and Cloud-Native
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
-
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite"/>
-</p>
-
-
-### AI and ML (Applied)
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-</p>
-
-Focused on integrating ML and LLM capabilities into backend systems rather than model research.
-
-
-## Where I Apply These Tools
-
-- Kafka and RabbitMQ for event-driven workflows and service decoupling  
-- Redis for caching, rate limiting, and async coordination  
-- Celery and ARQ for background and scheduled processing  
-- Kubernetes for container orchestration and service isolation  
-
-
-## How I Learn
-
-- Reading engineering books and postmortems  
-- Studying architectures of large-scale platforms  
-- Learning through collaboration, reviews, and real systems  
-
-Currently reading: **Designing Data-Intensive Applications**
-
-
-## Current Focus
-
-Building reliable, observable, cloud-native backend systems on Kubernetes.
-
-
-## Open To
-
-- Backend and platform collaboration  
-- Distributed systems discussions  
-- Open-source contributions  
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iradukunda-Fils&theme=radical&hide_border=true" />
-</div>
-
-
-<div align="center">
-  <i>Learning continuously. Building thoughtfully. Growing through collaboration.</i>
-</div>
+Prefer the simplest design that meets the requirements. Make failure modes observable, define explicit contracts, test critical behavior, and measure before optimizing.
